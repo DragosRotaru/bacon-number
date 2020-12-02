@@ -13,3 +13,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - documentation folder
 - installation and usage instructions
 - NodeJS/TypeScript/Express barebones project
+
+## 0.0.2 - 2020-11-30
+
+### Added
+
+- csv parsing
+- data transformations
+- breadth first search algorithm
+- api endpoint
+- ignore credits.csv file
